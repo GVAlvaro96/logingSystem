@@ -11,8 +11,8 @@ Este es un sistema de registro (logging system) simple desarrollado utilizando P
 
 ## Requisitos
 
-- Python 3.x
-- Django 3.x
+- Python 3.8
+- Django 4.2.6
 
 ## Instalación
 
