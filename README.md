@@ -1,4 +1,4 @@
-# Logging System con Python y Django
+# Personal Web con Python y Django
 
 Este es un sistema de registro (logging system) simple desarrollado utilizando Python y el framework web Django. Este sistema permite a los usuarios llevar un registro de eventos, actividades o cualquier otro tipo de registro en una aplicación web.
 
